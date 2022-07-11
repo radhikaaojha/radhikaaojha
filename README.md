@@ -9,7 +9,7 @@
     Tools and CLI: Git, Github <br>
     Database: SQL <br>
 
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about Data Science
 - ⚡ Fun fact: I love to dance.
 - 📫 How to reach me 📧 radhikaaojha@gmail.com
 
