@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 
 - 💞️ Skills:- <br>
     Language: C, C++, Python, HTML <br>
-    Frameworks and Libraries: Swing,,Tkinter and OpenCV <br>
+    Frameworks and Libraries: Swing,Tkinter and OpenCV <br>
     Tools and CLI: Git, Github <br>
     Database: SQL <br>
 
