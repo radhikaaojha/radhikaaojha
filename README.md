@@ -7,10 +7,9 @@
     Language: C, C++, Python, HTML <br>
     Frameworks and Libraries: Swing,Tkinter and OpenCV <br>
     Tools and CLI: Git, Github <br>
-    Database: SQL <br>
+    Database: SQL,MongoDB <br>
 
-- 🥅 2022 Goals: Learn more about Data Science
-- ⚡ Fun fact: I love to dance.
+
 - 📫 How to reach me 📧 radhikaaojha@gmail.com
 
 ### Connect with me:
